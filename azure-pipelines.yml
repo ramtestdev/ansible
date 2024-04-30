@@ -6,8 +6,8 @@
 trigger:
 - devel
 
-pool:
-  vmImage: ubuntu-latest
+pool: Ram
+  
 
 steps:
 - script: echo Hello, world!
